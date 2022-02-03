@@ -7,6 +7,9 @@
 #   @ly4k (https://github.com/ly4k)
 #
 
+# Python3.8 Fix
+from __future__ import annotations
+
 import logging
 from typing import Any
 
