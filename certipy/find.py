@@ -11,6 +11,9 @@
 #   https://github.com/GhostPack/Certify/blob/2b1530309c0c5eaf41b2505dfd5a68c83403d031/Certify/Commands/Find.cs#L581
 #
 
+# Python3.8 Fix
+from __future__ import annotations
+
 import argparse
 import json
 import logging
